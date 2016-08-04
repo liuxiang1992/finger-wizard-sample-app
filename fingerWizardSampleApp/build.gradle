@@ -38,5 +38,5 @@ configurations.all {
 }
 
 dependencies {
-    compile 'com.dft.android:onyx-enroll-wizard:4.1.7'
+    compile 'com.dft.android:onyx-enroll-wizard:4.1.15'
 }
